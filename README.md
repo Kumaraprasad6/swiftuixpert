@@ -12,3 +12,4 @@ Topics Covered:
     - Colors
     - Gradients
     - Icons and Images
+    - Frames
