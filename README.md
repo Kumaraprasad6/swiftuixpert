@@ -11,3 +11,4 @@ Topics Covered:
     - Shapes
     - Colors
     - Gradients
+    - Icons and Images
