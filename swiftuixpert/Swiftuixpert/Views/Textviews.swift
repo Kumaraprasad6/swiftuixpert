@@ -1,13 +1,13 @@
 //
-//  textviews01.swift
-//  swiftui_xpert
+//  Textviews.swift
+//  SwiftUIxpert
 //
 //  Created by T0240U6 on 29/12/25.
 //
 
 import SwiftUI
 
-struct Textviews01: View {
+struct Textviews: View {
     var body: some View {
         Text("Hello, world!, welcome to Earth".uppercased())
 //            .font(.title)
@@ -27,5 +27,5 @@ struct Textviews01: View {
 }
 
 #Preview {
-    Textviews01()
+    Textviews()
 }

@@ -1,6 +1,6 @@
 //
-//  swiftui_xpertApp.swift
-//  swiftui_xpert
+//  SwiftUIxpertApp.swift
+//  SwiftUIxpert
 //
 //  Created by T0240U6 on 27/12/25.
 //
@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct swiftui_xpertApp: App {
+struct SwiftUIxpertApp: App {
     var body: some Scene {
         WindowGroup {
-            Textviews01()
+            Textviews()
         }
     }
 }

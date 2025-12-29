@@ -8,3 +8,4 @@ Feedback is welcome!
 Topics Covered:
 
     - TextView
+    - Shapes

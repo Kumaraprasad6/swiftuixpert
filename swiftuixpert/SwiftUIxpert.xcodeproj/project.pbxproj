@@ -24,15 +24,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		6032275C2F0041B000DB4A03 /* swiftui_xpert.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftui_xpert.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		603227692F0041B100DB4A03 /* swiftui_xpertTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftui_xpertTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		603227732F0041B100DB4A03 /* swiftui_xpertUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftui_xpertUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6032275C2F0041B000DB4A03 /* SwiftUIxpert.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIxpert.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		603227692F0041B100DB4A03 /* SwiftUIxpertTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIxpertTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		603227732F0041B100DB4A03 /* SwiftUIxpertUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIxpertUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6032275E2F0041B000DB4A03 /* swiftuixpert */ = {
+		6032275E2F0041B000DB4A03 /* Swiftuixpert */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = swiftuixpert;
+			path = Swiftuixpert;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -65,7 +65,7 @@
 		603227532F0041B000DB4A03 = {
 			isa = PBXGroup;
 			children = (
-				6032275E2F0041B000DB4A03 /* swiftuixpert */,
+				6032275E2F0041B000DB4A03 /* Swiftuixpert */,
 				6032275D2F0041B000DB4A03 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 		6032275D2F0041B000DB4A03 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6032275C2F0041B000DB4A03 /* swiftui_xpert.app */,
-				603227692F0041B100DB4A03 /* swiftui_xpertTests.xctest */,
-				603227732F0041B100DB4A03 /* swiftui_xpertUITests.xctest */,
+				6032275C2F0041B000DB4A03 /* SwiftUIxpert.app */,
+				603227692F0041B100DB4A03 /* SwiftUIxpertTests.xctest */,
+				603227732F0041B100DB4A03 /* SwiftUIxpertUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -83,9 +83,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6032275B2F0041B000DB4A03 /* swiftui_xpert */ = {
+		6032275B2F0041B000DB4A03 /* SwiftUIxpert */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6032277D2F0041B100DB4A03 /* Build configuration list for PBXNativeTarget "swiftui_xpert" */;
+			buildConfigurationList = 6032277D2F0041B100DB4A03 /* Build configuration list for PBXNativeTarget "SwiftUIxpert" */;
 			buildPhases = (
 				603227582F0041B000DB4A03 /* Sources */,
 				603227592F0041B000DB4A03 /* Frameworks */,
@@ -96,18 +96,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6032275E2F0041B000DB4A03 /* swiftuixpert */,
+				6032275E2F0041B000DB4A03 /* Swiftuixpert */,
 			);
-			name = swiftui_xpert;
+			name = SwiftUIxpert;
 			packageProductDependencies = (
 			);
 			productName = swiftuixpert;
-			productReference = 6032275C2F0041B000DB4A03 /* swiftui_xpert.app */;
+			productReference = 6032275C2F0041B000DB4A03 /* SwiftUIxpert.app */;
 			productType = "com.apple.product-type.application";
 		};
-		603227682F0041B100DB4A03 /* swiftui_xpertTests */ = {
+		603227682F0041B100DB4A03 /* SwiftUIxpertTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 603227802F0041B100DB4A03 /* Build configuration list for PBXNativeTarget "swiftui_xpertTests" */;
+			buildConfigurationList = 603227802F0041B100DB4A03 /* Build configuration list for PBXNativeTarget "SwiftUIxpertTests" */;
 			buildPhases = (
 				603227652F0041B100DB4A03 /* Sources */,
 				603227662F0041B100DB4A03 /* Frameworks */,
@@ -118,16 +118,16 @@
 			dependencies = (
 				6032276B2F0041B100DB4A03 /* PBXTargetDependency */,
 			);
-			name = swiftui_xpertTests;
+			name = SwiftUIxpertTests;
 			packageProductDependencies = (
 			);
 			productName = swiftuixpertTests;
-			productReference = 603227692F0041B100DB4A03 /* swiftui_xpertTests.xctest */;
+			productReference = 603227692F0041B100DB4A03 /* SwiftUIxpertTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		603227722F0041B100DB4A03 /* swiftui_xpertUITests */ = {
+		603227722F0041B100DB4A03 /* SwiftUIxpertUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 603227832F0041B100DB4A03 /* Build configuration list for PBXNativeTarget "swiftui_xpertUITests" */;
+			buildConfigurationList = 603227832F0041B100DB4A03 /* Build configuration list for PBXNativeTarget "SwiftUIxpertUITests" */;
 			buildPhases = (
 				6032276F2F0041B100DB4A03 /* Sources */,
 				603227702F0041B100DB4A03 /* Frameworks */,
@@ -138,11 +138,11 @@
 			dependencies = (
 				603227752F0041B100DB4A03 /* PBXTargetDependency */,
 			);
-			name = swiftui_xpertUITests;
+			name = SwiftUIxpertUITests;
 			packageProductDependencies = (
 			);
 			productName = swiftuixpertUITests;
-			productReference = 603227732F0041B100DB4A03 /* swiftui_xpertUITests.xctest */;
+			productReference = 603227732F0041B100DB4A03 /* SwiftUIxpertUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -168,7 +168,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 603227572F0041B000DB4A03 /* Build configuration list for PBXProject "swiftui_xpert" */;
+			buildConfigurationList = 603227572F0041B000DB4A03 /* Build configuration list for PBXProject "SwiftUIxpert" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -182,9 +182,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6032275B2F0041B000DB4A03 /* swiftui_xpert */,
-				603227682F0041B100DB4A03 /* swiftui_xpertTests */,
-				603227722F0041B100DB4A03 /* swiftui_xpertUITests */,
+				6032275B2F0041B000DB4A03 /* SwiftUIxpert */,
+				603227682F0041B100DB4A03 /* SwiftUIxpertTests */,
+				603227722F0041B100DB4A03 /* SwiftUIxpertUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -240,12 +240,12 @@
 /* Begin PBXTargetDependency section */
 		6032276B2F0041B100DB4A03 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6032275B2F0041B000DB4A03 /* swiftui_xpert */;
+			target = 6032275B2F0041B000DB4A03 /* SwiftUIxpert */;
 			targetProxy = 6032276A2F0041B100DB4A03 /* PBXContainerItemProxy */;
 		};
 		603227752F0041B100DB4A03 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6032275B2F0041B000DB4A03 /* swiftui_xpert */;
+			target = 6032275B2F0041B000DB4A03 /* SwiftUIxpert */;
 			targetProxy = 603227742F0041B100DB4A03 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -438,7 +438,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swiftui_xpert.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/swiftui_xpert";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Swiftui_xpert.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Swiftui_xpert";
 			};
 			name = Debug;
 		};
@@ -456,7 +456,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swiftui_xpert.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/swiftui_xpert";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Swiftui_xpert.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Swiftui_xpert";
 			};
 			name = Release;
 		};
@@ -495,7 +495,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		603227572F0041B000DB4A03 /* Build configuration list for PBXProject "swiftui_xpert" */ = {
+		603227572F0041B000DB4A03 /* Build configuration list for PBXProject "SwiftUIxpert" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6032277B2F0041B100DB4A03 /* Debug */,
@@ -504,7 +504,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6032277D2F0041B100DB4A03 /* Build configuration list for PBXNativeTarget "swiftui_xpert" */ = {
+		6032277D2F0041B100DB4A03 /* Build configuration list for PBXNativeTarget "SwiftUIxpert" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6032277E2F0041B100DB4A03 /* Debug */,
@@ -513,7 +513,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		603227802F0041B100DB4A03 /* Build configuration list for PBXNativeTarget "swiftui_xpertTests" */ = {
+		603227802F0041B100DB4A03 /* Build configuration list for PBXNativeTarget "SwiftUIxpertTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				603227812F0041B100DB4A03 /* Debug */,
@@ -522,7 +522,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		603227832F0041B100DB4A03 /* Build configuration list for PBXNativeTarget "swiftui_xpertUITests" */ = {
+		603227832F0041B100DB4A03 /* Build configuration list for PBXNativeTarget "SwiftUIxpertUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				603227842F0041B100DB4A03 /* Debug */,
