@@ -9,3 +9,4 @@ Topics Covered:
 
     - TextView
     - Shapes
+    - Colors
