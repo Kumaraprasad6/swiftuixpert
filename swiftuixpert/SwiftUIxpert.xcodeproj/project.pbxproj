@@ -168,7 +168,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 603227572F0041B000DB4A03 /* Build configuration list for PBXProject "Swiftuixpert" */;
+			buildConfigurationList = 603227572F0041B000DB4A03 /* Build configuration list for PBXProject "SwiftUIxpert" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -495,7 +495,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		603227572F0041B000DB4A03 /* Build configuration list for PBXProject "Swiftuixpert" */ = {
+		603227572F0041B000DB4A03 /* Build configuration list for PBXProject "SwiftUIxpert" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6032277B2F0041B100DB4A03 /* Debug */,

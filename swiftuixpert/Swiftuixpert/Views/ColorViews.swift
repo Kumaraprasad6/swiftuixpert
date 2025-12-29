@@ -20,8 +20,8 @@ struct ColorViews: View {
 //                Color(.systemBackground)
 //                Color(uiColor: .red)
 //                Color(hue: 0.5, saturation: 0.8, brightness: 0.9)
-                Color("customColor")
-//                LinearGradient(gradient: Gradient(colors: [.red, .yellow, .green]), startPoint: .leading, endPoint: .trailing)
+//                Color("customColor")
+                LinearGradient(gradient: Gradient(colors: [.red, .yellow, .green]), startPoint: .leading, endPoint: .trailing)
                 
             )
             .frame(width: 300, height: 100)
