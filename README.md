@@ -13,3 +13,4 @@ Topics Covered:
     - Gradients
     - Icons and Images
     - Frames
+    - Backgrounds and Overlays
