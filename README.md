@@ -10,3 +10,4 @@ Topics Covered:
     - TextView
     - Shapes
     - Colors
+    - Gradients
