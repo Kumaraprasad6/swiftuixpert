@@ -15,3 +15,5 @@ Topics Covered:
     - Frames
     - Backgrounds and Overlays
     - StackViews
+    - Padding
+    - Spacer
