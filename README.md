@@ -17,3 +17,5 @@ Topics Covered:
     - StackViews
     - Padding
     - Spacer
+    - Initializers
+    - Enums
